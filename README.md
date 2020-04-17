@@ -1,5 +1,5 @@
 # modul-1-tcyber 
-##Pengenalan Capture The Flags
+## Pengenalan Capture The Flags
 
 Capture the Flag(CTF) adalah salah satu perlombaan dibidang teknologi terutama dibidang sekuritas siber. Pada perlombaan CTF kalian akan diberikan sebuah tantangan untuk mencari sebuah string yang sudah disembunyikan sistem dimana disbut dengan istilah Flag. Kompetisi CTF biasanya diikuti oleh tim beranggotakan 3 orang, tapi ada juga yang bersifat individu atau memperbolehkan anggota lebih dari 3. 
 
@@ -12,32 +12,31 @@ Secara umum kompetisi CTF memilikki 3 format utama yaitu Jeopardy, Attack-Defenc
 
 
 
-##Kategori Challenges pada format Jeopardy
-####Cryptography
+## Kategori Challenges pada format Jeopardy
+#### Cryptography
 Cryotography atau biasa disebut crypto adalah sebuah kategori challenges dimana kita diberikan soal berupa pesan pesan yang telah dienkripsi. Untuk membaca pesan tersebut kita diharuskan mencari decrytor dari enkripsi tersebut. Setelah dilakukan dekripsi biasanya kita akan mendapatkan flag yang kita cari. Beberapa jenis enkripsi yang ada antara lain Caesar Chipper, Vigenère Chipper, MD5Hash, RSA dan masih banyak lagi.
 
 
-####Web
+#### Web
 Kategori web ini memiliki banyak tujuan juga dari yang paling mudah dengan inspect element hingga problem sulit seperti meminta kita untuk mendapatkan hak akses tertentu dari sebuah web misalnya dari user biasa menjadi admin. Mengerjakan kategori ini membutuhkan pemahaman teknologi web, seperti untuk bagian interace diperlukan pemahaman html dan javascript, backend pengetahuan minimal php, database seperti dasar sql, cookie,session, HTTP,dsb. 
 
-####Reverse Engineering
+#### Reverse Engineering
 Pada kategori Reverse Engineering(RE) kita diharuskan mereverse engineer sebuah file binnary atau source code. Tujuanya untuk mendapatkan flag dari kode tersebut. Untuk mengerjakan kategori ini kita memerlukan pemahaman akan bahasa assembly dan bahasa c(memory allocation, pointer, function pointer). Tool yang biasa digunakan adalah IDA Pro atau Hopper.
 
-####Binary Exploitation 
+#### Binary Exploitation 
 Binary Exploitation(BinEx) merupakan sebuah kategori dimana kita mencari celah pada sebuah program (binary) dan mengubah programnya agar tidak berjalan sesuai seharusnya. Untuk melakukan binex kita harus terlabih dahulu memehami RE untuk menemukan celah pada sebuah program binary
 
-
-####Forensic
+#### Forensic
 Pada kategori Forensic kita diminta untuk mengesktrak data dari sebuah file. File tersebut bisa bermacam-macam seperti  text, archived file, network capture, image, audio, memory dump, dsb. Forensic ini adalah kategori yang sangat luas dan membutuhkan pengetahuan mengenai berbagai filesystem yang ada. Beberapa tools yang digunakan pada kategori forensic adalah wireshark,binwalk,exiftool, stgesolve, volatility, audacity,dsb.
 
 
-####pwnables 
+#### pwnables 
 Pada kategori ini kita diminta mengeksploit service yang berjalan pada remote server. pwnables ini mirip dengan reverse engineering cuma perbedaanya jika pada RE kita diberikan binary filenya, tapi pada pwnables binary file hanya berjalan pada remote server dan flag yang harus kita ambil ada dalam remote server tersebut.
 
-####MISC
+#### MISC
 Kategori ini adalah kategori selain diatas atau gabungan dari kategori-kategori diatas.
 
-##Mulai belajar CTF
+## Mulai belajar CTF
 Perlombaan CTF memiliki banyak bidang pengetahuan dan pengetahuan itu saling berkaitan. Oleh karena itu dari berbagai kategori diatas akan lebih baik jika pelajari semuanya. 
 - Memiliki pengetahuan dasar tentang CTF
   - Untuk belajar CTF sangat disarankan familiar dengan sistem operasi linux, karena pada sistem operasi linux ini banyak terdapat tool-tool open source yang bisa memudahkan dalam memecahkan challenges dalam CTF.
@@ -49,9 +48,6 @@ Perlombaan CTF memiliki banyak bidang pengetahuan dan pengetahuan itu saling ber
   - Untuk belajar pwnable disarankan belajar RE, BiNex dan Networking terlebih dahulu.
 - Meningkatkan Skill Googling, terdapat beberapa challenges CTF yang bisa diselesaikan hanya dengan Googling
 - Dan yang pasti untuk belajar CTF sangat disarankan untuk mengikuti kompetisi CTF.
-  
-
-
 
 
 
