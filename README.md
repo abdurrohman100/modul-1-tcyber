@@ -85,10 +85,10 @@ Perlombaan CTF memiliki banyak bidang pengetahuan dan pengetahuan itu saling ber
   berikut ada beberapa [CLI dasar linux](https://github.com/AZakyH/Modul-Pelatihan-Linux-2018/blob/master/CLI/README.md).
   - Untuk belajar Cryptography disarankan untuk belajar scripting menggunakan python dan disarankan mencari tahu berbagai algortima enkripsi yang ada.
   - Untuk belajar Web disarankan mulai belajar dari bahasa HTML, PHP dan Javascript dan memhami cara kerja HTTP
-  - Untuk belajar RE dan BinEx disarankan untuk mempelajari bahasa C dan bahasa Assembly, cobalah membuat program c kemudian coba lakukan reverse engineering terhadap program mu.
+  - Untuk belajar RE dan BinEx disarankan untuk mempelajari bahasa C dan bahasa Assembly, cobalah membuat program c kemudian coba lakukan reverse engineering terhadap program tersebut.
   - Untuk belajar Forensic disarankan belajar tentang filesystem
   - Untuk belajar pwnable disarankan belajar RE, BiNex dan Networking terlebih dahulu.
-- Meningkatkan Skill Googling, terdapat beberapa challenges CTF yang bisa diselesaikan hanya dengan Googling
+- Meningkatkan Skill Googling, terdapat beberapa challenges CTF yang bisa diselesaikan hanya dengan Googling.
 - Dan yang pasti untuk belajar CTF sangat disarankan untuk mengikuti kompetisi CTF.
 
 ## Resource Untuk Belajar CTF
