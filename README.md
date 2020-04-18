@@ -35,7 +35,7 @@ Kategori web ini memiliki banyak tujuan juga dari yang paling mudah dengan inspe
 >##### Category
 >Web Exploitation
 >##### Question
->Kishor Balan tipped us off that the following code may need inspection: https://2019shell1.picoctf.com/problem/52962/ [(link)](https://2019shell1.picoctf.com/problem/52962/) or http://2019shell1.picoctf.com:52962they mean?
+>Kishor Balan tipped us off that the following code may need inspection: https://2019shell1.picoctf.com/problem/52962/ [(link)](https://2019shell1.picoctf.com/problem/52962/) or http://2019shell1.picoctf.com:52962
 
 
 
@@ -50,7 +50,7 @@ Pada kategori Reverse Engineering(RE) kita diharuskan mereverse engineer sebuah 
 >This vault uses some complicated arrays! I hope you can make sense of it, special agent. The source code for this vault is here: [VaultDoor1.java](https://2019shell1.picoctf.com/static/e34a3f6d6e6341be2f9f562f1b4e7c33/VaultDoor1.java)
 
 #### Binary Exploitation 
-Binary Exploitation(BinEx) merupakan sebuah kategori dimana kita mencari celah pada sebuah program (binary) dan mengubah programnya agar tidak berjalan sesuai seharusnya. Untuk melakukan binex kita harus terlabih dahulu memehami RE untuk menemukan celah pada sebuah program binary
+Binary Exploitation(BinEx) merupakan sebuah kategori dimana kita mencari celah pada sebuah program (binary) dan mengubah programnya agar tidak berjalan sesuai seharusnya. Untuk melakukan binex kita harus terlabih dahulu memahami RE untuk menemukan celah pada sebuah program binary.
 Contoh Challenges dari picoCTF
 >##### handy-shellcode
 >Point: 50
@@ -82,7 +82,7 @@ Kategori ini adalah kategori selain diatas atau gabungan dari kategori-kategori 
 Perlombaan CTF memiliki banyak bidang pengetahuan dan pengetahuan itu saling berkaitan. Oleh karena itu dari berbagai kategori diatas akan lebih baik jika pelajari semuanya. 
 - Memiliki pengetahuan dasar tentang CTF
   - Untuk belajar CTF sangat disarankan familiar dengan sistem operasi linux, karena pada sistem operasi linux ini banyak terdapat tool-tool open source yang bisa memudahkan dalam memecahkan challenges dalam CTF.
-  CLI linux :https://github.com/AZakyH/Modul-Pelatihan-Linux-2018/blob/master/CLI/README.md
+  berikut ada beberapa [CLI dasar linux](https://github.com/AZakyH/Modul-Pelatihan-Linux-2018/blob/master/CLI/README.md) dan berapa [CLI untuk CTF] yang sering dipakai.
   - Untuk belajar Cryptography disarankan untuk belajar scripting menggunakan python dan disarankan mencari tahu berbagai algortima enkripsi yang ada.
   - Untuk belajar Web disarankan mulai belajar dari bahasa HTML, PHP dan Javascript dan memhami cara kerja HTTP
   - Untuk belajar RE dan BinEx disarankan untuk mempelajari bahasa C dan bahasa Assembly, cobalah membuat program c kemudian coba lakukan reverse engineering terhadap program mu.
@@ -91,6 +91,13 @@ Perlombaan CTF memiliki banyak bidang pengetahuan dan pengetahuan itu saling ber
 - Meningkatkan Skill Googling, terdapat beberapa challenges CTF yang bisa diselesaikan hanya dengan Googling
 - Dan yang pasti untuk belajar CTF sangat disarankan untuk mengikuti kompetisi CTF.
 
+##Resource Untuk Belajar CTF
+[CTFTime](https://ctftime.org/) menyediakan info mengenai berbagai kompetisi CTF.
+[Referensi CTF101](https://ctf101.org/) terdapat materi mengenai pengetahuan dasar CTF.
+[Referensi Trailofbits](https://trailofbits.github.io/ctf/) Terdapat tips & trick menganalisa file terutama untuk forensic
+[Referensi Tool](https://github.com/apsdehal/awesome-ctf) Referensi tools untuk CTF
+[picoCTF2019](https://github.com/apsdehal/awesome-ctf) Open Contest dimana kamu bisa mulai berlatih CTF.
+[CTFLearn](https://ctflearn.com/dashboard) salah satu open contest juga dengan variasi challenges yang banyak.
 
 
 ### Referensi
@@ -98,6 +105,6 @@ http://ctfs.github.io/resources/
 https://blog.compactbyte.com/2014/04/24/security-ctf/
 https://2019game.picoctf.com/problems
 https://github.com/ChaO-0/WriteUps/tree/master/Arkavidia/2020/quals/pwn/hangman
-
+https://fareedfauzi.github.io/ctfonline/#
 
 
