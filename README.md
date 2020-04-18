@@ -93,12 +93,13 @@ Perlombaan CTF memiliki banyak bidang pengetahuan dan pengetahuan itu saling ber
 
 ## Resource Untuk Belajar CTF
 
-[CTFTime](https://ctftime.org/) menyediakan info mengenai berbagai kompetisi CTF.
-[Referensi CTF101](https://ctf101.org/) terdapat materi mengenai pengetahuan dasar CTF.
-[Referensi Trailofbits](https://trailofbits.github.io/ctf/) Terdapat tips & trick menganalisa file terutama untuk forensic
-[Referensi Tool](https://github.com/apsdehal/awesome-ctf) Referensi tools untuk CTF
-[picoCTF2019](https://github.com/apsdehal/awesome-ctf) Open Contest dimana kamu bisa mulai berlatih CTF.
-[CTFLearn](https://ctflearn.com/dashboard) salah satu open contest juga dengan variasi challenges yang banyak.
+
+- [CTFTime](https://ctftime.org/) menyediakan info mengenai berbagai kompetisi CTF.
+- [Referensi CTF101](https://ctf101.org/) terdapat materi mengenai pengetahuan dasar CTF.
+- [Referensi Trailofbits](https://trailofbits.github.io/ctf/) Terdapat tips & trick menganalisa file terutama untuk forensic
+- [Referensi Tool](https://github.com/apsdehal/awesome-ctf) Referensi tools untuk CTF
+- [picoCTF2019](https://github.com/apsdehal/awesome-ctf) Open Contest dimana kamu bisa mulai berlatih CTF.
+- [CTFLearn](https://ctflearn.com/dashboard) salah satu open contest juga dengan variasi challenges yang banyak.
 
 
 ### Referensi
