@@ -101,12 +101,15 @@ Perlombaan CTF memiliki banyak bidang pengetahuan dan pengetahuan itu saling ber
 - [picoCTF2019](https://github.com/apsdehal/awesome-ctf) Open Contest dimana kamu bisa mulai berlatih CTF.
 - [CTFLearn](https://ctflearn.com/dashboard) salah satu open contest juga dengan variasi challenges yang banyak.
 
-
 ### Referensi
 http://ctfs.github.io/resources/
+
 https://blog.compactbyte.com/2014/04/24/security-ctf/
+
 https://2019game.picoctf.com/problems
+
 https://github.com/ChaO-0/WriteUps/tree/master/Arkavidia/2020/quals/pwn/hangman
+
 https://fareedfauzi.github.io/ctfonline/#
 
 
