@@ -82,7 +82,7 @@ Kategori ini adalah kategori selain diatas atau gabungan dari kategori-kategori 
 Perlombaan CTF memiliki banyak bidang pengetahuan dan pengetahuan itu saling berkaitan. Oleh karena itu dari berbagai kategori diatas akan lebih baik jika pelajari semuanya. 
 - Memiliki pengetahuan dasar tentang CTF
   - Untuk belajar CTF sangat disarankan familiar dengan sistem operasi linux, karena pada sistem operasi linux ini banyak terdapat tool-tool open source yang bisa memudahkan dalam memecahkan challenges dalam CTF.
-  berikut ada beberapa [CLI dasar linux](https://github.com/AZakyH/Modul-Pelatihan-Linux-2018/blob/master/CLI/README.md) dan berapa [CLI untuk CTF] yang sering dipakai.
+  berikut ada beberapa [CLI dasar linux](https://github.com/AZakyH/Modul-Pelatihan-Linux-2018/blob/master/CLI/README.md).
   - Untuk belajar Cryptography disarankan untuk belajar scripting menggunakan python dan disarankan mencari tahu berbagai algortima enkripsi yang ada.
   - Untuk belajar Web disarankan mulai belajar dari bahasa HTML, PHP dan Javascript dan memhami cara kerja HTTP
   - Untuk belajar RE dan BinEx disarankan untuk mempelajari bahasa C dan bahasa Assembly, cobalah membuat program c kemudian coba lakukan reverse engineering terhadap program mu.
