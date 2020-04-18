@@ -91,7 +91,8 @@ Perlombaan CTF memiliki banyak bidang pengetahuan dan pengetahuan itu saling ber
 - Meningkatkan Skill Googling, terdapat beberapa challenges CTF yang bisa diselesaikan hanya dengan Googling
 - Dan yang pasti untuk belajar CTF sangat disarankan untuk mengikuti kompetisi CTF.
 
-##Resource Untuk Belajar CTF
+## Resource Untuk Belajar CTF
+
 [CTFTime](https://ctftime.org/) menyediakan info mengenai berbagai kompetisi CTF.
 [Referensi CTF101](https://ctf101.org/) terdapat materi mengenai pengetahuan dasar CTF.
 [Referensi Trailofbits](https://trailofbits.github.io/ctf/) Terdapat tips & trick menganalisa file terutama untuk forensic
